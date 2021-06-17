@@ -1,0 +1,26 @@
+{
+  "name": "code-wars",
+  "version": "1.0.0",
+  "description": "Solutions for [codewars](https://www.codewars.com) exercises.",
+  "main": "5kyu_FactorialDecomposition.js",
+  "scripts": {
+    "lint": "eslint src/**/*.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hylickipiotr/code-wars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hylickipiotr/code-wars/issues"
+  },
+  "homepage": "https://github.com/hylickipiotr/code-wars#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.1"
+  }
+}
